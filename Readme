@@ -1,0 +1,17 @@
+1. Use Swiper from CDN
+If you don't want to include Swiper files in your project, you may use it from CDN. The following files are available:
+
+<!-- css -->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
+/>
+
+<!-- js -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
+2. Go to Demo
+link: https://swiperjs.com/demos
+- select any style
+- click on core
+- copy code of css.html and js and paste in own project
